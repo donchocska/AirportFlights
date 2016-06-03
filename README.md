@@ -2,7 +2,7 @@
 Simple form for flight reservations
 
 
-1. )  Импортирайте в Eclipse, Java проекта от папка AirportFlights - Помощно видео (https://youtu.be/38JFCqi_X3c?list=PLLWHfd9cHlcuo9So2Yy0edLoeqHrhipC9)
+1. )  Импортирайте в Eclipse, Java проекта от папка AirportFlight - Помощно видео (https://youtu.be/38JFCqi_X3c?list=PLLWHfd9cHlcuo9So2Yy0edLoeqHrhipC9)
 2. )  Разархивирайте 'h2-2016-01-21.rar' в отделна папка и стартирайте файла 'h2w' намиращ се в - h2/bin/h2w
 3. )  Копирайте файла AirportFlights.mv в следната директория - C:\Users\YOUR_COMPUTER_NAME   
 
@@ -19,7 +19,7 @@ password: admin
 username: demo
 password: demo
 
-1. ) Clone into Eclipse a project from folder AirportFlights - auxiliary video (https://youtu.be/38JFCqi_X3c?list=PLLWHfd9cHlcuo9So2Yy0edLoeqHrhipC9)
+1. ) Clone into Eclipse a project from folder AirportFlight - auxiliary video (https://youtu.be/38JFCqi_X3c?list=PLLWHfd9cHlcuo9So2Yy0edLoeqHrhipC9)
 2. ) Extract 'h2-2016-01-21.rar' into another folder and run 'h2w'. The location is - h2/bin/h2w.
 3. ) Clone file AirportFlights.mv into following directory - C:\Users\YOUR_COMPUTER_NAME  
 
