@@ -28,11 +28,11 @@ The instalation is done!!!
 *You have to run 'h2w' file from step 2 always when you restart your PC.
 *You have to install Java Runtime Environment.
 
-Login for admin:
+Login as admin:
 username: admin
 password: admin
 
-Login for worker:
+Login as worker:
 username: demo
 password: demo
 
